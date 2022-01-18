@@ -1,0 +1,14 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "asincronismo con JS",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callbacks/index.js"
+  },
+  "author": "Santiago Barrera",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
