@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
     "callback": "node src/callbacks/index.js",
-    "callback:challenge": "node src/callbacks/challenge.js"
+    "callback:challenge": "node src/callbacks/challenge.js",
+    "promise": "node src/promises/index.js",
+    "promise:challenge": "node src/promises/challenge.js",
+    "async": "node src/async/index.js"
   },
   "author": "Santiago Barrera",
   "license": "MIT",
